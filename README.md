@@ -1,4 +1,4 @@
-# Kris-Tof Dice Toss
+/Users/erichtepale/Documents/IntelliJ_Projects/Maven.DiceyLab/README.md# Kris-Tof Dice Toss
 
 Create a Dice class that acts like a set of N random-tossed dies.
 
