@@ -31,7 +31,7 @@ public class Simulation {
         for (int i = numDice; i < numDice*6+1 ; i++) {
             double div = ((double)bins.getBin(i) / (double)rolls);
             String stars = stars(div); // stars
-            System.out.println(String.format("%2d4 : \t%2d5\t:%1.2f %s", i, bins.getBin(i), div, stars));
+            System.out.println(String.format("%2d : \t%2d5\t:%1.2f %s", i, bins.getBin(i), div, stars));
         }
     }
 
